@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wynn719)](https://github.com/wynn719/github-readme-stats)
+
 <!--
 **wynn719/wynn719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
